@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/iwCGtl0pB85ec5WI9H/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/JptHS4WwtzSS9CcK8t/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
