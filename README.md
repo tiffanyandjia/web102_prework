@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://giphy.com/embed/iwCGtl0pB85ec5WI9H" title='Video Walkthrough' width='480' height='260' alt='Video Walkthrough' />
 <iframe src="https://giphy.com/embed/iwCGtl0pB85ec5WI9H" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iwCGtl0pB85ec5WI9H">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
