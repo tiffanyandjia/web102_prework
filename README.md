@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/JptHS4WwtzSS9CcK8t/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/74Rf60LBIEAnmuaAuB/giphy.gif' title='Video Walkthrough' width='100%' height='100%' alt='Video Walkthrough' />
+
+
 
 
 
