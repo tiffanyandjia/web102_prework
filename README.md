@@ -23,9 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://giphy.com/embed/iwCGtl0pB85ec5WI9H" title='Video Walkthrough' width='480' height='260' alt='Video Walkthrough' />
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE0OWQxOGQ0YzMyOTBkZTIzN2I1ZGUxODA5NmY3NTcwN2YwODkxMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iwCGtl0pB85ec5WI9H/giphy.gif
-![Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE0OWQxOGQ0YzMyOTBkZTIzN2I1ZGUxODA5NmY3NTcwN2YwODkxMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iwCGtl0pB85ec5WI9H/giphy.gif)
+<img src='https://media.giphy.com/media/iwCGtl0pB85ec5WI9H/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
