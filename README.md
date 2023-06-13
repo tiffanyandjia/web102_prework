@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src="https://giphy.com/embed/iwCGtl0pB85ec5WI9H" title='Video Walkthrough' width='480' height='260' alt='Video Walkthrough' />
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/iwCGtl0pB85ec5WI9H" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iwCGtl0pB85ec5WI9H">via GIPHY</a></p>
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE0OWQxOGQ0YzMyOTBkZTIzN2I1ZGUxODA5NmY3NTcwN2YwODkxMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iwCGtl0pB85ec5WI9H/giphy.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
